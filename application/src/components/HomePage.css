@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+img {
+  width: 50%;
+  border: 5px solid #555;
+}
+
+.imgcontainer {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.imgcredits {
+  position: absolute;
+  bottom: 8px;
+  right: 32rem;
+}
+
+.imgcredits a:link {
+  color: white;
+  text-decoration: none;
+}
+.imgcredits a:visited {
+  color: white;
+}
+.imgcredits a:hover {
+  color: lightblue;
+}
+
+.AboutPage h1{
+  text-align: center;
+}
+
+.AboutPage p{
+  text-align: left;
+  padding-left:2rem;
+}
+
+@media screen and (max-width: 1366px) {
+  .imgcredits {
+    right: 22rem;
+  }
+}

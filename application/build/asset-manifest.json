@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kf6012/assessment/application/static/css/main.14ed6566.css",
+    "main.js": "/kf6012/assessment/application/static/js/main.96948b55.js",
+    "static/js/787.98651143.chunk.js": "/kf6012/assessment/application/static/js/787.98651143.chunk.js",
+    "static/media/bremen.jpg": "/kf6012/assessment/application/static/media/bremen.db45178c26711f5d7b68.jpg",
+    "index.html": "/kf6012/assessment/application/index.html",
+    "main.14ed6566.css.map": "/kf6012/assessment/application/static/css/main.14ed6566.css.map",
+    "main.96948b55.js.map": "/kf6012/assessment/application/static/js/main.96948b55.js.map",
+    "787.98651143.chunk.js.map": "/kf6012/assessment/application/static/js/787.98651143.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ed6566.css",
+    "static/js/main.96948b55.js"
+  ]
+}

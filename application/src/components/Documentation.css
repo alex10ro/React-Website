@@ -1,0 +1,18 @@
+.all{
+    text-align: left;
+}
+
+.title{
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+h4{
+    padding-top: 2rem;
+    padding-left: 4rem;
+    padding-bottom: 1rem;
+}
+
+.link{
+    padding-left: 1rem;
+}
