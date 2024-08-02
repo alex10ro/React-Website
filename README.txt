@@ -2,10 +2,10 @@ Author: Cristian - Alexandru Mitoi
 University: Northumbria
 
 Web Application:
-http://unn-w20010102.newnumyspace.co.uk/kf6012/assessment/application/
+https://aliceblue-chicken-745565.hostingersite.com/app
 
 API documentation:
-http://unn-w20010102.newnumyspace.co.uk/kf6012/assessment/application/documentation
+https://aliceblue-chicken-745565.hostingersite.com/app/documentation
 
 Accesing the Admin page:
 Username: admin
